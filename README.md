@@ -1,0 +1,1 @@
+This project predicts the type of brain tumor using Machine Learning based on user-provided medical information. The dataset was analyzed using Exploratory Data Analysis (EDA) and processed before training classification models. Built using Python, Pandas, NumPy, and Scikit-learn, this project demonstrates my skills in data preprocessing, visualization, and predictive modeling.
